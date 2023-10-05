@@ -1,0 +1,102 @@
+body {
+  background-image: url('../images/BG.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p { 
+    color: white;
+    border: 2px solid magenta;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+    border: 2px solid orange;
+    border-radius: 10px;
+    
+    
+}
+
+h3 {
+    font-size: 25px;
+    color: white;
+    border: 2px solid cyan;
+    border-radius: 10px;
+    
+}
+
+h5 {
+    font-size: 25px;
+    color: white;
+   border: 2px solid cyan;
+    border-radius: 10px;
+    
+}
+
+li {
+    color: white;
+}
+
+thead {
+    
+    font-size: 25px;
+    background-color: aquamarine;
+    
+    
+}
+
+
+
+tbody {
+    
+    font-size: 25px;
+    background-color: mediumseagreen;
+    
+    
+}
+
+
+
+tfoot {
+    
+    font-size: 25px;
+    background-color: mediumpurple;
+    
+    
+}
+
+
+a:hover {
+  background-color: cadetblue;
+}
+
+a:link {
+  color: darkmagenta;
+}
+
+
+a:visited {
+  color: lightpink;
+}
+
+a:active {
+    
+    color:forestgreen;
+}
+
+
+
+
+
+
+
+
+
+
