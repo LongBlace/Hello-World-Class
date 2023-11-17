@@ -1,0 +1,207 @@
+h1 {
+    font-size: 30px;
+    color: white;
+    background-color: darkorange;
+    border: 2px solid orange;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    
+    
+}
+
+
+h2 {
+    font-size: 30px;
+    color: bisque;
+    font-weight: 000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+
+h3 {
+    font-size: 25px;
+    color: white;
+    background-color: darkcyan;
+    border: 2px solid cyan;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 1240px;
+    
+}
+
+h1.heading {
+    
+    font-size: 25px;
+    color: white;
+   
+    
+}
+
+
+
+
+h5 {
+    font-size: 25px;
+    color: white;
+    background-color: darkcyan;
+    border: 2px solid cyan;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 750px;
+}
+
+li {
+    color: white;
+}
+
+thead {
+    text-align: center;
+    font-size: 25px;
+    background-color: aquamarine;
+    
+    
+}
+
+
+
+tbody {
+    text-align: center;
+    font-size: 25px;
+    background-color: mediumseagreen;
+    
+    
+}
+
+
+
+tfoot {
+    text-align: center;
+    font-size: 25px;
+    background-color: mediumpurple;
+    
+    
+}
+
+
+a:hover {
+  color: yellow;
+
+}
+
+a:link {
+  color: white;
+}
+
+
+a:visited {
+  color: white;
+}
+
+a:active {
+    
+    color:yellow;
+}
+
+
+
+li {
+    
+    color: white;
+    
+    
+}
+
+div.nav {
+    
+    position: fixed;
+    bottom: 0;
+    left: 0;   
+    width: 70px;
+    border: 3px solid cyan;
+    background-color: darkcyan;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+    
+}
+
+div.mwt-icon {
+    
+    float: right;
+    
+}
+
+div.mwh-logo {
+    
+    float: left
+    
+    
+}
+
+div.left {
+    
+    margin-left: auto;
+    
+}
+
+div.center {
+    
+    text-align: center;
+    
+}
+
+
+div.mw-body {
+    
+    text-align: center;
+    
+}
+
+
+.search-input:after {
+
+    left: unset;
+
+    right: 16px;
+
+}
+
+
+
+
+
+
+body.app {
+    
+    background-color: dimgrey;
+    
+    
+    
+}
+
+p { 
+    color: white;
+    font-family: "Arial", sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    font-size: 15px;
